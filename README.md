@@ -3,8 +3,8 @@
 I'm a {backend, frontend} developer.
 I am currently a student of programming, I am interested in learning more and improving my knowledge in the area.
 <br><br>
-<a href="https://discord.com/users/73598582153805824" target="_blank">
-<img width="45%" src="https://lanyard.cnrad.dev/api/73598582153805824?theme=dark&bg=151515&borderRadius=5px" alt="Discord"/>
+<a href="https://discord.com/users/820404261665112065" target="_blank">
+<img width="45%" src="https://lanyard.cnrad.dev/api/820404261665112065?theme=dark&bg=151515&borderRadius=5px" alt="Discord"/>
 </a>
 <br>
     <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" alt="Brunno" />
