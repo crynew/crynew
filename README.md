@@ -5,7 +5,7 @@ I am currently a student of programming, I am interested in learning more and im
 <br><br>
 
 <br>
-    <img src="https://lanyard.cnrad.dev/api/722154600316141761" />
+    <img src="https://lanyard.cnrad.dev/api/1133816602828222555" />
     <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" alt="Brunno" />
     <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crynew&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
 </p>
