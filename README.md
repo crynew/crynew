@@ -9,19 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1133816602828222555" alt="Discord Status" />
+    <img src="https://discord-arts.asure.dev/card/1133816602828222555?presenceStatus=idle&localDateType=en-US&disableProfileTheme=true&moreBackgroundBlur=true" alt="Discord Status" width="600" height="200" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Brunno's GitHub Stats" />
-    </td>
-    <td>
-      <img width="188%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crynew&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: flex-start; margin-left: 50px;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Brunno's GitHub Stats" />
+      </td>
+      <td>
+        <img width="188%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crynew&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
