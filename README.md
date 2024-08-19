@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://discord-arts.asure.dev/card/1133816602828222555?customBackground=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1259996601141825579%2F1263534857104003192%2Fbaixados.jpeg%3Fex%3D669a9609%26is%3D66994489%26hm%3D756cc7e9d65d30020c38c67174880c19a75eea32903f7932e3d7d67e746dfead%26%3D%26format%3Dwebp%26width%3D584%26height%3D584&presenceStatus=idle&localDateType=en-US&disableProfileTheme=true&moreBackgroundBlur=true" alt="Discord Status" width="600" height="200" />
+    <img src="https://discord-arts.asure.dev/card/722154600316141761" alt="Discord Status" width="600" height="200" />
 </p>
 
 <div style="display: flex; justify-content: flex-start; margin-left: 50px;">
