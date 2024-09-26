@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="" alt="Discord" width="600" height="200" />
+    <img src="https://discord-arts.asure.dev/card/722154600316141761" alt="Discord" width="600" height="200" />
 </p>
 
 <div style="display: flex; justify-content: flex-start; margin-left: 50px;">
