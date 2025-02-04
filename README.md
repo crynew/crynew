@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=crynew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-    <img src="https://api.victims.lol/api/discord-arts/profile-image/73598582153805824?customAvatar=https://cdn.victims.lol/uploads/fff72e2b70f60a705fd3834ac30891f2-1738528426907.jpg&badgesFrame=true" alt="Discord" width="600" height="200" />
+    <img src="https://api.victims.lol/api/discord-arts/profile-image/73598582153805824?customAvatar=https%3A%2F%2Fcdn.victims.lol%2Fuploads%2Ffff72e2b70f60a705fd3834ac30891f2-1738528426907.jpg&borderColor=%23000000&usernameColor=%23ffffff&customSubtitle=Full-Stack+Developer&backgroundBrightness=0&moreBackgroundBlur=true&badgesFrame=true" alt="Discord" width="600" height="200" />
 </p>
 
 ## 🚀 Projects
